@@ -4,7 +4,7 @@ repo: upptime # The name of this repository
 
 sites:
   - name: Portfolio
-    url: https://www.danielcgdas.dev
+    url: https://www.danielcg.dev
   - name: Filmoteca
     url: https://filmoteca-994ba.web.app
   - name: Fiber Landing Page
