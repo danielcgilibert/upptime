@@ -7,6 +7,14 @@ sites:
     url: https://www.danielcg.dev
   - name: Filmoteca
     url: https://filmoteca-994ba.web.app
+  - name: Fiber Landing Page
+    url: https://danielcgilibert.github.io/Fiber-Landing-Page/
+  - name: Chart Component
+    url: https://danielcgilibert.github.io/Frontend-Mentor---Expenses-chart-component/
+  - name: Grid section
+    url: https://danielcgilibert.github.io/Frontend-Mentor---Testimonials-grid-section/
+  - name: Card Component
+    url: https://danielcgilibert.github.io/Frontend-Mentor--Product-preview-card-component/
     
 assignees:
   - danielcgilibert
