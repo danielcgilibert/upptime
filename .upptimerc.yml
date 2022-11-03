@@ -31,6 +31,10 @@ status-website:
   navbar:
     - title: Status
       href: /
+    - title: GitHub
+      href: https://github.com/danielcgilibert
+   i18n:
+    footer: " "
 
 
 # Upptime also supports notifications, assigning issues, and more
