@@ -10,11 +10,9 @@ sites:
   - name: Fiber Landing Page
     url: https://danielcgilibert.github.io/Fiber-Landing-Page
   - name: Chart Component
-    url: https://danielcgilibert.github.io/Frontend-Mentor---Expenses-chart-component
-  - name: Grid section
-    url: https://danielcgilibert.github.io/Frontend-Mentor---Testimonials-grid-section
+    url: https://challenges-fronted-mentor-chart-component-qah2e7rdt.vercel.app/
   - name: Card Component
-    url: https://danielcgilibert.github.io/Frontend-Mentor--Product-preview-card-component
+    url: https://cfm-productreview-cnax6r9nn-danielcgilibert.vercel.app/
     
 assignees:
   - danielcgilibert
