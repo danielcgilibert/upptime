@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.96%",
-    "time": 244,
-    "timeDay": 240,
-    "timeWeek": 188,
-    "timeMonth": 214,
-    "timeYear": 244,
+    "time": 245,
+    "timeDay": 308,
+    "timeWeek": 208,
+    "timeMonth": 220,
+    "timeYear": 245,
     "dailyMinutesDown": {
       "2022-11-08": 18
     }
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 228,
-    "timeDay": 121,
-    "timeWeek": 91,
+    "time": 225,
+    "timeDay": 83,
+    "timeWeek": 96,
     "timeMonth": 105,
-    "timeYear": 228,
+    "timeYear": 225,
     "dailyMinutesDown": {}
   },
   {
@@ -48,11 +48,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 133,
-    "timeDay": 242,
-    "timeWeek": 161,
-    "timeMonth": 135,
-    "timeYear": 133,
+    "time": 135,
+    "timeDay": 206,
+    "timeWeek": 180,
+    "timeMonth": 140,
+    "timeYear": 135,
     "dailyMinutesDown": {}
   },
   {
@@ -67,9 +67,9 @@
     "uptimeMonth": "99.94%",
     "uptimeYear": "99.94%",
     "time": 121,
-    "timeDay": 25,
-    "timeWeek": 95,
-    "timeMonth": 133,
+    "timeDay": 142,
+    "timeWeek": 106,
+    "timeMonth": 136,
     "timeYear": 121,
     "dailyMinutesDown": {
       "2022-11-13": 28
@@ -81,16 +81,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/cfm-productreview-cnax6r9nn-danielcgilibert.vercel.app.ico",
     "slug": "card-component",
     "status": "up",
-    "uptime": "99.96%",
+    "uptime": "99.97%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.96%",
-    "uptimeYear": "99.96%",
-    "time": 121,
-    "timeDay": 120,
-    "timeWeek": 112,
-    "timeMonth": 132,
-    "timeYear": 121,
+    "uptimeYear": "99.97%",
+    "time": 122,
+    "timeDay": 171,
+    "timeWeek": 124,
+    "timeMonth": 137,
+    "timeYear": 122,
     "dailyMinutesDown": {
       "2022-11-13": 17
     }
