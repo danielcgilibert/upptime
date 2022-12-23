@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.danielcg.dev.ico",
     "slug": "portfolio",
     "status": "up",
-    "uptime": "99.97%",
+    "uptime": "99.98%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.97%",
-    "time": 279,
-    "timeDay": 205,
-    "timeWeek": 283,
-    "timeMonth": 297,
-    "timeYear": 279,
+    "uptimeYear": "99.98%",
+    "time": 278,
+    "timeDay": 227,
+    "timeWeek": 249,
+    "timeMonth": 293,
+    "timeYear": 278,
     "dailyMinutesDown": {
       "2022-11-08": 18
     }
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 192,
-    "timeDay": 99,
-    "timeWeek": 75,
+    "time": 190,
+    "timeDay": 100,
+    "timeWeek": 80,
     "timeMonth": 91,
-    "timeYear": 192,
+    "timeYear": 190,
     "dailyMinutesDown": {}
   },
   {
@@ -48,11 +48,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 140,
-    "timeDay": 143,
-    "timeWeek": 118,
+    "time": 139,
+    "timeDay": 95,
+    "timeWeek": 112,
     "timeMonth": 145,
-    "timeYear": 140,
+    "timeYear": 139,
     "dailyMinutesDown": {}
   },
   {
@@ -66,11 +66,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
-    "time": 137,
-    "timeDay": 201,
-    "timeWeek": 116,
-    "timeMonth": 150,
-    "timeYear": 137,
+    "time": 136,
+    "timeDay": 124,
+    "timeWeek": 117,
+    "timeMonth": 151,
+    "timeYear": 136,
     "dailyMinutesDown": {
       "2022-11-13": 28
     }
@@ -87,9 +87,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 142,
-    "timeDay": 166,
-    "timeWeek": 188,
-    "timeMonth": 165,
+    "timeDay": 112,
+    "timeWeek": 142,
+    "timeMonth": 164,
     "timeYear": 142,
     "dailyMinutesDown": {
       "2022-11-13": 17
